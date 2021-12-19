@@ -1,5 +1,25 @@
+:root{
+    --color_letra : #333;
+    --tipo_letra : 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    --tam_letra : 16px;
+}
+
+
 body {
-    text-align: center;
+    text-align: left;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: deeppink;
+    font-size: var(--tam_letra);
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #d000d0;
+    margin: auto;
+}
+
+#container h1{
+    font-size: 20px;
 }

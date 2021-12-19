@@ -2,11 +2,4 @@ esta es la primera version de mi proyecto de git
 
 en donde el instrucctor 
 
-verifica la historia
-
-en camara parece alto pero la verdad no es tan alto
-
-
-cambio de vida 
-
-archivos y obra maestra
+verifica la informacion
