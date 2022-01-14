@@ -53,3 +53,12 @@ body {
     width: 48px;
     height: 34px;
 }
+.footer{
+    margin: auto;
+    font-size: 11px;
+    padding-top: 1px;
+    text-align: center;
+    background: #ccc;
+    height: 1cm;
+    margin-bottom: 0px !important;
+}
